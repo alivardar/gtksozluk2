@@ -1,0 +1,15 @@
+
+./configure
+./make
+islemlerinden sonra 
+gtksozluk2 isimli dizini /usr/local/share icine kopyalayiniz.
+
+M.Ali VARDAR
+2003 
+GPL lisansi ile dagitlibilir.
+
+
+Uygulamaya emegi gecenler
+
+Gorkem CETIN
+Sertan KOLAT
