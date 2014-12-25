@@ -1,4 +1,4 @@
-gtksozluk2
+GTKSozluk2
 ==========
 
 GtkSözlük2 bir sözlük programıdır. Sonunda bulunan iki rakamı GTK sürüm iki kullanılarak yazıldığı anlamına gelmektedir. İlk yazılan sürüm GTK sürüm bir kullanıldığı için güncel dağıtımlar ile kullanılmasında bir çok sorun yaşanması sebebiyle yeni sürüme yükseltilmiştir. Sadece İngilizceden Türkçeye çeviri yapmaktadır.
