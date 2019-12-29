@@ -6,6 +6,3 @@ Veri dosyaları 36000 kelimeden oluşmaktadır. Bir çok işletim sistemi ve da�
 
 Kaynak kod, veri dosyalarını içermez, kaynak kod paketlerinden kurulum yapmanız durumunda veri dosyalarını arch linux paketleri içinden alabilirsiniz.
 
-![Alt text](http://www.linuxprogramlama.com/images/gtksozluk2.png "title")
-
-
